@@ -1,0 +1,6 @@
+{
+  "name": "Video Downloader",
+  "description": "A high-performance offline-first video and audio downloader portal powered by yt-dlp, featuring a built-in browser and ExoPlayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
